@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    active: sender
+  rabbitmq:
+     addresses: localhost:2222
